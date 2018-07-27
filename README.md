@@ -7,7 +7,7 @@ Este repositorio que hace parte del programa de Workshops de NodeSchool (LESS is
 
 # Herramientas
 
-	- LESS Css Preprocessor
+Less.Js: A CSS Preprocessor
 
 ## Créditos
 - [David E Lares S](https://twitter.com/@davidlares3)
