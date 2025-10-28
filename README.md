@@ -1,20 +1,16 @@
-## DavidLess
+## LessCSS
 
-Ejercicios basicos y conceptos del preprocesador CSS (LESS), 
-mixins, namespaces, variables, scopes, entre otros conceptos
+Basic exercises and concepts of the CSS preprocessor (LESS),
+mixins, namespaces, variables, scopes, and other concepts.
 
-Este repositorio que hace parte del programa de Workshops de NodeSchool (LESS is more)
+This repository is part of the NodeSchool Workshops program (LESS is more).
 
-# Herramientas
+# Tool
 
-Less.Js: A CSS Preprocessor
+Less.js: A CSS Preprocessor
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## NodeSchool Workshop
-- https://github.com/gnerkus/less-is-more
-
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
