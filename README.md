@@ -5,7 +5,7 @@ mixins, namespaces, variables, scopes, and other concepts.
 
 This repository is part of the NodeSchool Workshops program (LESS is more).
 
-# Tool
+## Tool
 
 Less.js: A CSS Preprocessor
 
